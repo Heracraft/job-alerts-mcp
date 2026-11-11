@@ -1,0 +1,15 @@
+{
+  "name": "job-alerts",
+  "version": "1.0.0",
+  "description": "Search open US internship and new-grad roles from company career sites, filtered by track, company, sponsorship, citizenship and graduation window. Keyless, read-only MCP server.",
+  "author": {
+    "name": "Herakraft",
+    "url": "https://recruiting.herakraft.co"
+  },
+  "homepage": "https://recruiting.herakraft.co/developers/docs/mcp",
+  "repository": "https://github.com/Heracraft/job-alerts-mcp",
+  "license": "MIT",
+  "keywords": ["jobs", "internships", "new-grad", "careers", "job-search", "students", "mcp"],
+  "logo": "logo.png",
+  "mcpServers": "./mcp.json"
+}

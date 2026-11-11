@@ -1,0 +1,11 @@
+{
+  "name": "job-alerts",
+  "version": "1.0.0",
+  "description": "Search open US internship and new-grad roles from company career sites, filtered by track, company, sponsorship, citizenship and graduation window. Keyless.",
+  "mcpServers": {
+    "job-alerts": {
+      "httpUrl": "https://recruiting.herakraft.co/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
