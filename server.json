@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "co.herakraft.recruiting/job-alerts",
   "title": "Job Alerts: internships and new-grad roles",
-  "description": "Open US internship and new-grad roles read from company career sites, with sponsorship, citizenship, clearance and graduation-window filters. Keyless, read-only.",
+  "description": "Open US internship and new-grad roles from company career sites, with eligibility filters. Keyless.",
   "version": "1.0.0",
   "websiteUrl": "https://recruiting.herakraft.co/developers/docs/mcp",
   "repository": {
